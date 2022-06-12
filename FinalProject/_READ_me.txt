@@ -8,4 +8,4 @@ style_1 contain the styles of the navigation bar and bottons of the the site,
 while style_2 contain the styles of of the various pages.
 
 ===================================================================
-in this site we used favicon and it is in the "image > fav_icon" folder.
+in this site we used favicon and it is in the "image > favicon" folder.
